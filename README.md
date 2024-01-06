@@ -1,2 +1,2 @@
-# gundam_p2_Pytorch_Covid
+# p2_Pytorch_Covid
 Predicting COVID Deaths with PyTorch
